@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buildriseshine/api/reactjs/dictionary/static/css/main.819c3828.css",
+    "main.js": "/buildriseshine/api/reactjs/dictionary/static/js/main.32af5ac3.js",
+    "static/js/787.0157ba9a.chunk.js": "/buildriseshine/api/reactjs/dictionary/static/js/787.0157ba9a.chunk.js",
+    "static/media/BG.png": "/buildriseshine/api/reactjs/dictionary/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/buildriseshine/api/reactjs/dictionary/index.html",
+    "main.819c3828.css.map": "/buildriseshine/api/reactjs/dictionary/static/css/main.819c3828.css.map",
+    "main.32af5ac3.js.map": "/buildriseshine/api/reactjs/dictionary/static/js/main.32af5ac3.js.map",
+    "787.0157ba9a.chunk.js.map": "/buildriseshine/api/reactjs/dictionary/static/js/787.0157ba9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.819c3828.css",
+    "static/js/main.32af5ac3.js"
+  ]
+}
